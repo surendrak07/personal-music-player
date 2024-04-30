@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=surendrak07&label=Profile%20views&color=0e75b6&style=flat" alt="surendrak07" /> </p>
 <img  align="right" src="https://raw.githubusercontent.com/Vajja-Premsai/Vajja-Premsai/main/thoughtworks-gif_dribbble.gif"  width='320' alt="surendrak07" />
 
-- 🔭 I’m currently working on [music player](musicplayer.kesug.com)
+- 🔭 I’m currently working on [music player]([musicplayer.kesug.com](http://musicplayer.kesug.com/))
 
 - 🌱 I’m currently learning **Deep Learning and Web Development**
 
